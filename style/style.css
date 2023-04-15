@@ -424,6 +424,9 @@
                     text-align: center;
                     width: 100%;
                 }
+        section.contenedor div.carousel{
+            width: 100%;
+            }
         .grids{
             grid-template-columns: 1fr;
             grid-template-rows: repeat(2, 1fr) 2fr;
